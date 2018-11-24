@@ -2,7 +2,7 @@
 
 ![flask](https://i.imgur.com/N22AHP6.png)
 
-Install Python's development files and pip, Python'spackage management system.
+Install Python's development files and pip, Python's package management system.
 
 ~~~~
 sudo apt-get install python-pip python-dev
